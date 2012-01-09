@@ -1,0 +1,18 @@
+div.smallimage{
+    margin-left: 10px;
+    border: 0px;
+    display: inline-block;
+}
+div.imgContainer{
+    width: 160px;
+    background: grey;
+}
+
+img{
+    border-radius: 2px;
+}
+img.smallImage{
+    opacity: 0;
+}
+
+
